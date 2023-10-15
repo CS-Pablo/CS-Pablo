@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CS-Pablo
 - 👀 I’m interested in dev , bike ride, and drifting with my car
 - 🌱 I’m currently learning php my SQL , scalpping 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Go to the real HUNTER
