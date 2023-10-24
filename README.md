@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning PHP, Python , MySQL , Java , HTML , CSS , JS , scalpping
 - 💞️ Go to the real HUNTER
 - on the right path
+- 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg
