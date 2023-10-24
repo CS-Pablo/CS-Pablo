@@ -11,6 +11,6 @@
 - on the right path
 
 <h3 align="center">My Dev environment :</h3>
--
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/600px-Apple-logo.png" alt="dqz" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/1076/1076988.png" alt="VSCODE" width="40" height="40"/>
 
