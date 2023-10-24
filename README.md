@@ -10,7 +10,7 @@
 
 
  
- <img src="https://fivem-vscode.gallerycdn.vsassets.io/extensions/fivem-vscode/fivem-vscode/0.3.1/1641809875370/Microsoft.VisualStudio.Services.Icons.Default" alt="5m" width="40" height="40"/> Five M devs.
+<h2 align="center">  <img src="https://fivem-vscode.gallerycdn.vsassets.io/extensions/fivem-vscode/fivem-vscode/0.3.1/1641809875370/Microsoft.VisualStudio.Services.Icons.Default" alt="5m" width="40" height="40"/> Five M devs.</h2>
   
 - 💞️ Go to the real HUNTER
 - on the right path
