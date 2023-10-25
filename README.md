@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo </h1>
 <h3 align="center">
-    Junior developer from FRANCE, Oui oui des baguettes. 👀 I’m interested in dev , bike ride, and car drifting/ride.
+    Junior developer from FRANCE,Rennes,  Oui oui des baguettes. 👀 I’m interested in dev , bike ride, and car drifting/ride.
 </h3>
 
 
