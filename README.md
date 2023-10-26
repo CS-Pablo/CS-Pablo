@@ -4,7 +4,7 @@
 </h3>
 
 
-<h3 align="center">🌱 I’m currently learning PHP, Python , MySQL , Java , HTML , CSS , JS , scalpping</h3>
+<h3 align="center">🌱 I’m currently learning PHP , Lua , Python , MySQL , Java , HTML , CSS , JS , scalpping</h3>
 
 
   
