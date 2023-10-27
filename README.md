@@ -37,5 +37,7 @@
 
 <h3 align="center"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></h3>
 
+<a href = "https://discord.gg/"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a>
+
 
 
