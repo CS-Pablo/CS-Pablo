@@ -5,9 +5,9 @@
     Junior developer from FRANCE,Rennes,  Oui oui des baguettes. 👀 I’m interested in dev , bike ride, and car drifting/ride.
 </h3>
 
-<h3 align="center">🌱 I’m currently learning PHP , Lua , Python , MySQL , Java , HTML , CSS , JS , scalpping</h3>
-<h3 align="center"> 💞️ Go to the real HUNTER </h3>
-<h3 align="center"> on the right path</h3>
+<h4 align="center">🌱 I’m currently learning PHP , Lua , Python , MySQL , Java , HTML , CSS , JS , scalpping</h4>
+<h4 align="center"> 💞️ Go to the real HUNTER </h4>
+<h4 align="center"> on the right path</h4>
 
 <h2 align="center">My Dev environment :</h2>
 
