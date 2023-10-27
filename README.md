@@ -14,6 +14,8 @@
 <h3 align="center"> 💞️ Go to the real HUNTER </h3>
 <h3 align="center"> on the right path</h3>
 
+<p align="center"> 📊 My Github's stats </p>
+
 <h2 align="center">My Dev environment :</h2>
 
 <h2 align="center">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/600px-Apple-logo.png" alt="dqz" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/1076/1076988.png" alt="VSCODE" width="40" height="40"/></h2>
@@ -29,6 +31,7 @@
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
 
 
 
