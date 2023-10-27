@@ -16,7 +16,12 @@
 
 <h3 align="center"> 📊 My Github's stats </h3>
 
-<h3 align="center"><a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CS-Pablo&theme=dark&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=494&hide_longest_streak=true" alt="GitHub Streak" /></a></h3>
+<h3 align="center"><p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+</h3>
 
 <h2 align="center">My Dev environment :</h2>
 
@@ -40,10 +45,5 @@
 <h3 align="center">My Discord : </h3>
 <h3 align="center"><a href = "https://discord.gg/3Pjt8vQ5x8"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a></h3>
 
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 
