@@ -16,6 +16,8 @@
 
 <h3 align="center"> 📊 My Github's stats </h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CS-Pablo)](https://git.io/streak-stats)
+
 <h2 align="center">My Dev environment :</h2>
 
 <h2 align="center">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/600px-Apple-logo.png" alt="dqz" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/1076/1076988.png" alt="VSCODE" width="40" height="40"/></h2>
