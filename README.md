@@ -16,7 +16,7 @@
 
 <h3 align="center"> 📊 My Github's stats </h3>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CS-Pablo&theme=dark&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=494&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=CS-Pablo&theme=dark&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=494&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 <h2 align="center">My Dev environment :</h2>
 
