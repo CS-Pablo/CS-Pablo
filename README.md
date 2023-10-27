@@ -9,6 +9,11 @@
 <h4 align="center"> 💞️ Go to the real HUNTER </h4>
 <h4 align="center"> on the right path</h4>
 
+<h3 align="center">My Discord : </h3>
+<h3 align="center"><a href = "https://discord.gg/3Pjt8vQ5x8"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a></h3>
+
+
+
 <h2 align="center">My Dev environment :</h2>
 
 <h4 align="center">  <img src="https://fivem-vscode.gallerycdn.vsassets.io/extensions/fivem-vscode/fivem-vscode/0.3.1/1641809875370/Microsoft.VisualStudio.Services.Icons.Default" alt="5m" width="40" height="40"/> Five M devs.</h4>
@@ -39,8 +44,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=github-compact)](https://github.com/LQuatre/github-readme-activity-graph)
 
 <h3 align="center"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></h3>
-<h3 align="center">My Discord : </h3>
-<h3 align="center"><a href = "https://discord.gg/3Pjt8vQ5x8"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a></h3>
-
-
 
