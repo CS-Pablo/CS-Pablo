@@ -7,7 +7,7 @@
 
 <h4 align="center">🌱 I’m currently learning PHP , Lua , Python , MySQL , Java , HTML , CSS , JS , scalpping</h4>
 <h4 align="center"> 💞️ Go to the real HUNTER </h4>
-<h4 align="center"> on the right path</h4>
+<h4 align="center"> on the right path.</h4>
 
 <h3 align="center">My Discord : </h3>
 <h3 align="center"><a href = "https://discord.gg/3Pjt8vQ5x8"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a></h3>
