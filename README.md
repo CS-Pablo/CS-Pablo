@@ -39,7 +39,7 @@
 </a>
 <h3 align="center">    <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/> 
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=chartreuse-dark"/> 
     </a>
 </p>
 </h3>
