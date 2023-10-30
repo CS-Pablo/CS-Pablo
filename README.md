@@ -38,11 +38,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=10&theme=chartreuse-dark) 
 </a>
 
-<h3 align="center">   
-        <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=chartreuse-dark"/> 
-    </a>
-</h3>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+ <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=chartreuse-dark"/></a>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=chartreuse-dark)](https://github.com/LQuatre/github-readme-activity-graph)
 
