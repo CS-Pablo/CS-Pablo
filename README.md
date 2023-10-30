@@ -43,5 +43,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=github-compact)](https://github.com/LQuatre/github-readme-activity-graph)
 
-<h3 align="center"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=10&theme=dark)
 
