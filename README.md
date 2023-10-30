@@ -36,7 +36,7 @@
 <a align="center">
 
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=chartreuse-dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=20&theme=chartreuse-dark) 
 </a>
 
 
