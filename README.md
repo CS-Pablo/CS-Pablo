@@ -34,7 +34,7 @@
 
 <h2 align="center"> 📊 My Github's stats </2>
 
-<h3 align="center"><p align="center">
+<h3 align="center">   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=10&theme=dark) <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
     </a>
@@ -42,6 +42,6 @@
 </h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=github-compact)](https://github.com/LQuatre/github-readme-activity-graph)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=10&theme=dark)
+
 
 
