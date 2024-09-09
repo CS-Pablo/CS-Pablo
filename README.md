@@ -30,19 +30,19 @@
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-<h3 align="center"><a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=chartreuse-dark"/></a></h3>
+<h3 align="center"><a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=vue"/></a></h3>
 <h2 align="center"> 📊 My Github's stats : </2>
 <a align="center">
 
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=chartreuse-dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=vue) 
 </a>
 
 
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=chartreuse-dark)](https://github.com/LQuatre/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=vue)](https://github.com/LQuatre/github-readme-activity-graph)
 
 
 
