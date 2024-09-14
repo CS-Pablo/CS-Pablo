@@ -8,7 +8,7 @@
 <h4 align="center">🌱 I’m currently learning C, Sh, and other</h4>
 <h4 align="center"> 💞️ Go to the real HUNTER </h4>
 <h4 align="center"> on the right path.</h4>
-<h4 align="center"> Nombres de Visites :</h4>
+<h3 align="center"> Nombres de Visites :</h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/CS-Pablo/count.svg" />
 </p>
