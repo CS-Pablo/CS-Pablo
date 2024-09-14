@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
 
 <p align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF760&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CSauron+" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF760&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CSauron+" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">
