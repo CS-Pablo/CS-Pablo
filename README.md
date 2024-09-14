@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
-<p align="center"> 
+
 [![wakatime](https://wakatime.com/badge/user/5cfedfe5-3f21-4fe1-bd62-f4a8ea9f5168.svg)](https://wakatime.com/@5cfedfe5-3f21-4fe1-bd62-f4a8ea9f5168)
-</p>
+
 <p align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF760&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CSauron+" alt="Typing SVG" /></a>
 </p>
