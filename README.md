@@ -40,7 +40,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=dark)](https://github.com/LQuatre/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CS-Pablo&theme=shadow_red)](https://github.com/LQuatre/github-readme-activity-graph)
 
 
 
