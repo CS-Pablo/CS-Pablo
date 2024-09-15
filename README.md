@@ -4,7 +4,6 @@
 
 <p align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF760&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CSauron+" alt="Typing SVG" /></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=1DF760&center=true&vCenter=true&multiline=true&width=689&height=220&lines=+Junior+developer+from+FRANCE%2CRennes%2C+;Oui+oui+des+baguettes.+;+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+C%2C+Sh%2C+and+other+;%F0%9F%91%80+I%E2%80%99m+interested+in+dev+%2C+bike+ride%2C+and+car+drifting%2Fride.+;%F0%9F%92%9E%EF%B8%8F+Go+to+the+real+HUNTER+;on+the+right+path." alt="Typing SVG" /></a>
 </p>
 <h2 align="center"> Nombres de Visites :</h2>
