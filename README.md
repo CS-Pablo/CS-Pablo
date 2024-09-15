@@ -28,12 +28,12 @@
     
 </p>
 
-<h3 align="center"><a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=vue"/></a></h3>
+<h3 align="center"><a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CS-Pablo&theme=shadow_green"/></a></h3>
 <h2 align="center"> 📊 My Github's stats : </2>
 <a align="center">
 
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=shadow_red) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=shadow_green) 
 </a>
 
 
