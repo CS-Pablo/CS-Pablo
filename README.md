@@ -33,7 +33,7 @@
 <a align="center">
 
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=vue) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Pablo&layout=compact&langs_count=100&theme=shadow_red) 
 </a>
 
 
