@@ -26,6 +26,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
    <a href="https://media.licdn.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLHdY5kEI1kMs_CzI2yMzH6z6eIOMPg7-dw&s" width="40" height="40"/> </a>  
+    <a href="https://media.licdn.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4BphhDn5xXu5MHIL87KbVXC9LNcEm4YNXw&s" width="40" height="40"/> </a>  
     
 </p>
 
